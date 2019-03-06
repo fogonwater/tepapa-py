@@ -1,6 +1,6 @@
 # TePapa.py
 
-A super-early stage Python wrapper for the Te Papa Collections API.
+A super-early stage Python wrapper for the [Te Papa Collections API](https://github.com/te-papa/collections-api/wiki).
 
 Very early stage and barely scratches surface of the API. Highly likely to change.
 
